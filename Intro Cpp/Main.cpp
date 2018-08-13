@@ -39,6 +39,12 @@ int main()
 	std::cout << "1" << std::endl;
 	std::cout << "0" << std::endl;
 	
+	std::cout << std::endl;
+
+	std::cout << "I guess school is cool" << std::endl;
+	
+	std::cout << std::endl;
+
 	//School is cool
 
 	system("Pause");
