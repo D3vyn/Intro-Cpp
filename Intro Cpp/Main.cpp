@@ -38,6 +38,8 @@ int main()
 	std::cout << "2" << std::endl;
 	std::cout << "1" << std::endl;
 	std::cout << "0" << std::endl;
+	
+	//School is cool
 
 	system("Pause");
 	return 0;
